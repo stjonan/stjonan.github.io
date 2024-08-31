@@ -1,4 +1,3 @@
-theme: jekyll-theme-modernist
 # Jonas' homepage
 
 | Col 1  | Col 2 |
