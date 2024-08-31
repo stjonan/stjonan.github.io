@@ -6,3 +6,5 @@
 | Cell 3 | Cell 4|
 
 [Link to another webpage](https://thoyden.ddns.net)
+
+![Flower](640px-Flower_stock_photo.jpg)
